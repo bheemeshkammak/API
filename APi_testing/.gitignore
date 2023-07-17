@@ -1,0 +1,4 @@
+api_testing
+../.idea
+.devspace
+/sqlite.db
